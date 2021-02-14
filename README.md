@@ -13,4 +13,4 @@ The Codeforces platform is typically used when preparing for competitive program
     
     Social networking through internal public blogs.
 
-[OFFICIAL WEBSITE ](#https://codeforces.com)
+[OFFICIAL WEBSITE ](https://codeforces.com)
